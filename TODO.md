@@ -8,6 +8,7 @@ The project is to be designed in such as way, so that it can be used locally (on
 * Code editor (write blog in md) + live rendering (similar to that of [Bookstack's](https://user-images.githubusercontent.com/21090563/45772099-b6a12680-bbfb-11e8-81ed-7c3c16e69a4c.png))
 * OAuth / similar auth support
 * Make optimizations to support ipython notebooks, etc, for Data Science use.
+* Setup Travis CI / any other CI.
 
 # Offline use 
 * generate md files for blogs (for use in github pages)
