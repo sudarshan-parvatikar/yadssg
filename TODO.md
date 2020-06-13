@@ -9,6 +9,7 @@ The project is to be designed in such as way, so that it can be used locally (on
 * OAuth / similar auth support
 * Make optimizations to support ipython notebooks, etc, for Data Science use.
 * Setup Travis CI / any other CI.
+* Import blogs from Jekyll, markdown or wordpress.
 
 ## Offline use 
 * generate md files for blogs (for use in github pages)
