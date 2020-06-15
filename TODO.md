@@ -13,6 +13,7 @@ The project is to be designed in such as way, so that it can be used locally (on
 
 ## Offline use 
 * generate md files for blogs (for use in github pages)
+* a sqlite db to store username:password, oauth creds, etc.
 
 ## Online use
 * multi user auth
